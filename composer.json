@@ -1,0 +1,11 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "longman/telegram-bot": "^0.83.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nasa\\": "src/"
+        }
+    }
+}
